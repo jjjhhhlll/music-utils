@@ -3,7 +3,7 @@
  *
  * hrm. not quite working this... using idea from http://www.emcken.dk/weblog/
  *
- * Original author: Jonathan Landis <jlandis@akamai.com>
+ * Original author: Jonathan Landis <jjjhhhlll@gmail.com>
  */
 
 #include <gst/gst.h>

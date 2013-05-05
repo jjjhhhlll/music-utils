@@ -5,7 +5,7 @@
  * I wanted to try out gstreamer and make things work
  * according to my liking.
  *
- * Original author: Jonathan Landis <jlandis@akamai.com>
+ * Original author: Jonathan Landis <jjjhhhlll@gmail.com>
  */
 
 #include <string.h>
